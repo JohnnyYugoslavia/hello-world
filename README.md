@@ -1,4 +1,5 @@
 # hello-world
-first repository from git hub tutorial
 
-I can't wait to get started using GitHub
+Tutorial completed. 
+
+I'm stoked that I am now using GitHub!
